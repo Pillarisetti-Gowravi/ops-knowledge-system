@@ -296,20 +296,6 @@ The most advanced feature: schedule your `/briefing` to run automatically in the
 
 ---
 
-# 📸 Screenshots
-
-### Graph View — Everything Connected
-*Every project, client, vendor, and decision — visually linked*
-
-![Graph View](assets/graph-view.png)
-
-### Sidebar — Clean Structure
-*Raw source material on one side. Claude's wiki on the other.*
-
-![Sidebar](assets/sidebar.png)
-
----
-
 # 🗂️ Demo Files
 
 See the `demo/` folder for examples of what the system produces:
