@@ -202,8 +202,6 @@ After your first ingest, test each command:
 
 ---
 
-# ⚙️ Part 2 — Building the Daily Operating System
-
 ## Step 8 — Move to the Claude Code Desktop UI
 
 Beyond the terminal, the **Claude Code Desktop UI** gives you a more visual experience for managing sessions and reviewing what Claude is doing across your vault. Install it and open your vault directory as your working project.
