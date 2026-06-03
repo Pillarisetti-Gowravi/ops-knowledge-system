@@ -133,20 +133,6 @@ Claude will read your raw files and build your first wiki pages. Open Obsidian's
 
 ---
 
-## 📸 Screenshots
-
-### Graph View
-*Every project, client, vendor, and decision — visually linked*
-
-![Graph View](assets/graph-view.png)
-
-### Sidebar Structure
-*Clean separation between raw source material and Claude's wiki*
-
-![Sidebar](assets/sidebar.png)
-
----
-
 ## 🗂️ Demo Files
 
 The `demo/` folder contains sample files so you can see exactly what the system produces:
