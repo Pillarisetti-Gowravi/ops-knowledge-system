@@ -12,11 +12,6 @@ This system fixes that. One place where everything lives, everything links, and 
 
 This is not a tech tool for tech teams. This is built for the industries where operational complexity is highest and documentation is worst:
 
-- **Supply Chain & Logistics** — dispatchers, fleet managers, warehouse ops
-- **Construction** — project managers, site supervisors, subcontractor coordination
-- **Real Estate** — property managers, transaction coordinators, asset managers
-- **Energy & Utilities** — field ops, maintenance scheduling, compliance tracking
-- **Finance & Professional Services** — ops leads, client relationship managers, analysts
 
 If your team runs on Slack messages, WhatsApp threads, and meeting notes nobody reads — this is for you.
 
